@@ -33,7 +33,7 @@ get_ipython().system('pip install wordcloud')
 # In[12]:
 
 
-pip install kaggle
+get_ipython().system('pip install kaggle')
 
 
 # In[2]:
